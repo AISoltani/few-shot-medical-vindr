@@ -10,7 +10,7 @@ This repo is designed to be easy to share:
 
 > Dataset note: VinDr-CXR has license/terms; this repo does not redistribute it.
 
-## Setup
+## Setup:
 
 ### pip
 ```bash
